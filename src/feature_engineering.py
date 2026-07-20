@@ -50,3 +50,5 @@ df.to_csv(
     r"C:\Users\Saksham sharma\Desktop\Traffic prediction\data\processed\engineered_traffic.csv",
     index=False
 )
+
+df.head()
